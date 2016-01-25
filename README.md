@@ -1,7 +1,11 @@
 # Bip39-diceware
 
-Generate a Bip39 Wallet Mnemonic using plain six sided dice and a coin
+## Generate a Bip39 Wallet Mnemonic using plain six sided dice and a coin
 
+Online Version:
+http://github.com/taelfrinn/Bip39-diceware/raw/master/coin_plus_d6_bip39.html
+
+Print Friendly verison:
 http://github.com/taelfrinn/Bip39-diceware/raw/master/coin_plus_d6_bip39.pdf
 
 
@@ -16,3 +20,4 @@ Using a bip39 wallet try each of the words in the block of 16 that the last
 word is found inside; one and only one word will work from the group.
 
 You have now generated a bip39 compliant wallet using manual entropy!
+
