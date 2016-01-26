@@ -19,6 +19,8 @@ word is found inside; one and only one word will work from the group.
 You have now generated a bip39 compliant wallet using manual entropy!
 
 ----
+
+|   |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|
 |h1111 abandon|h1265 angle|h1463 bag|h1661 bottom|h2255 cart|h2453 cloth|h2651 cruel|h3245 diary|h3443 ecology|h3641 excite|
 |h1112 ability|h1266 angry|h1464 balance|h1662 bounce|h2256 case|h2454 cloud|h2652 cruise|h3246 dice|h3444 economy|h3642 exclude|
