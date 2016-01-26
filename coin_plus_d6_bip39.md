@@ -1,21 +1,12 @@
-# Bip39-diceware
-
-## Generate a Bip39 Wallet Mnemonic using plain six sided dice and a coin
-
-Print Friendly verison:
-http://github.com/taelfrinn/Bip39-diceware/raw/master/coin_plus_d6_bip39.pdf
-
-
-
 Generate a bip39 passphrase using a coin and four standard 6 sided dice.
-Generate each of the words by flipping the coin (t/h) and rolling the dice (1-6).
-Consistently and fairly, to avoid bias, arrange the dice in order left to right.
-Look up the result in the attached table. If you flip tails and get a dice value larger
-than 4362 then you will have to flip+roll over again. After you are finished all 12
-words, the last word may need adjustment in order to meet the checksum requirements.
-Using a bip39 wallet try each of the words in the block of 16 that the last
-word is found inside; one and only one word will work from the group.
-
+ Generate each of the words by flipping the coin (t/h) and rolling the dice (1-6).
+ Consistently and fairly, to avoid bias, arrange the dice in order left to right.
+ look up the result in the table below. If you flip tails and get a dice value larger 
+  than 4362 then you will have to flip+roll over again. 
+ After you are finished all 12
+  words, the last word may need adjustment in order to meet the checksum requirements. 
+ Using a bip39 wallet try each of the words in the block of 16 that the last
+  word is found inside; one and only one word will work from the group.
 You have now generated a bip39 compliant wallet using manual entropy!
 
 ----
@@ -233,4 +224,3 @@ You have now generated a bip39 compliant wallet using manual entropy!
 |t1554 resist|t2152 scan|t2346 similar|t2544 spider|t3142 surprise|t3336 tobacco|t3534 typical|t4132 visa|t4326 word||
 |t1555 resource|t2153 scare|t2351 simple|t2545 spike|t3143 surround|t3341 today|t3535 ugly|t4133 visit|t4331 work||
 |t1556 response|t2154 scatter|t2352 since|t2546 spin|t3144 survey|t3342 toddler|t3536 umbrella|t4134 visual|t4332 world||
-
